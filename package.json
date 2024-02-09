@@ -1,0 +1,22 @@
+{
+  "name": "dnd",
+  "version": "1.0.0",
+  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/cb3s5v7jqhcukxft?svg=true)](https://ci.appveyor.com/project/NikitaKST/tstng)",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikitaKST/dnd.git"
+  },
+  "author": "NikitaKST",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikitaKST/dnd/issues"
+  },
+  "homepage": "https://github.com/NikitaKST/dnd#readme"
+}
